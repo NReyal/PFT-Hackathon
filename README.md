@@ -1,2 +1,3 @@
 # PFT-Hackathon
-CPQ Rule Extraction from Unstructured documents
+## CPQ Rule Extraction from Unstructured documents 
+CPQ (Configure, Price, Quote) systems are designed to streamline the sales process by automating the configuration of complex products or services, generating accurate pricing, and producing quotes quickly. However, creating rules within these systems manually can be labor-intensive and error-prone, especially when dealing with vast product catalogs and intricate configurations. Utilizing AI to read parts book documents and create rules for CPQ systems is a powerful application of AI-driven automation in the sales and manufacturing domain. in this hackathon we will attempt to use AI to read the parts book and other documents to create the rules needed to build the CPQ tool.
